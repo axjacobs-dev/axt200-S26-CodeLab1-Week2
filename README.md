@@ -1,3 +1,3 @@
 Week 2 assignment: Singletons
 
-I am going to make a game with multiple scense and a persistent audio source and playable character.
+A Unity game about art and decay, featuring multiple scenes, a persistent player, and a persistent song.
